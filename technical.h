@@ -1,8 +1,4 @@
-//Final Project - Space Escape
-//CS 162 - Fall 2014
 //author: Boone Neligan
-//
-//class Technical : public Room - header file 
 
 #ifndef TECHNICAL_H
 #define TECHNICAL_H
